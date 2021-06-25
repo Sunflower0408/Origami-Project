@@ -1,0 +1,31 @@
+.item {
+    font-family: sans-serif;
+   
+}
+  
+
+.container{
+    background-color: rgb(220, 248, 255);
+    display: flex;
+    flex: content;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    
+}
+
+.container img{
+    border:2px solid black;
+    border-radius:50px ;
+}
+
+p{
+    text-align:justify;
+ }
+
+ .dashboard{
+     display: flex;
+     justify-content: space-between;
+ }
+
+
